@@ -1,0 +1,17 @@
+{
+  "name": "securities-web-crawler",
+  "version": "1.0.0",
+  "description": "Securities Web Crawler by Ryan Soury",
+  "scripts": {},
+  "author": "Ryan Soury",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "crawler": "^0.4.3",
+    "mkdirp": "^0.5.1",
+    "node-uuid": "^1.4.7",
+    "string": "^3.3.1",
+    "uid2": "0.0.3",
+    "url": "^0.11.0"
+  }
+}
